@@ -30,7 +30,7 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 50px 0;
+    padding: 24px 0;
 }
 
 .sobre_nos-div-conteudo{
@@ -49,4 +49,9 @@ body{
 
 .sobre_nos-imagem{
     width: 25%;
+}
+
+.membros-imagem{
+    width: 24px;
+    padding: 4px 8px;
 }
