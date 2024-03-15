@@ -51,12 +51,45 @@ body{
     width: 25%;
 }
 
-.membros-imagem{
-    width: 24px;
-    padding: 4px 8px;
+/* seção membros*/
+.membros{
+    background-color: #a9a9a9;
 }
 
-.estudante-div{
+.membros-titulo{
+color: #3B0050;
+text-align: center;
+padding: 50px;
+font-size: 45px;
+}
+
+.membros-geral-div{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.membros-pessoal{
     text-align: center;
-    padding: 16px 0;
+   
+}
+
+.membros-imagem{
+    width: 20px;
+}
+.membros-oficial{
+    font-weight: 100;
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+.membros-icone-link:hover{
+    font-weight: 100;
+    text-decoration: underline;
+    color: orange;
+}
+.membros-icone-link{
+    width: 30px;
+    padding: 5px 0 10px 0;
+}
+.membros-icone-link:hover{
+    width: 35px;
+    padding: 5px 0;
 }
