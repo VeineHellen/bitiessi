@@ -40,10 +40,14 @@ body{
 .sobre_nos-titulo{
     padding: 45px 0;
     text-align: center;
-    font-size: 45px;
+    font-size: 60px;
 }
 
 .sobre_nos-texto-um{
+    font-size: 25px;
+}
+
+.sobre_nos-texto-dois{
     font-size: 25px;
 }
 
