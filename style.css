@@ -75,7 +75,7 @@ font-size: 45px;
 
 .membros-pessoal{
     text-align: center;
-    padding: 5px 0;
+    padding: 40px 0;
 }
 
 .membros-imagem{
@@ -85,7 +85,7 @@ font-size: 45px;
 .membros-oficial{
     font-weight: 100;
     text-decoration: underline;
-    color: #FFFFFF;
+    color: #000000;
 }
 
 .membros-icone-link:hover{
