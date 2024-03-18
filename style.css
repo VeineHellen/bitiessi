@@ -88,18 +88,18 @@ font-size: 45px;
     color: #000000;
 }
 
-.membros-icone-link:hover{
+.membros-icones-link:hover{
     font-weight: 100;
     text-decoration: underline;
     color: orange;
 }
 
-.membros-icone-link{
+.membros-icones-link{
     width: 30px;
     padding: 5px 0 10px 0;
 }
 
-.membros-icone-link:hover{
+.membros-icones-link:hover{
     width: 35px;
     padding: 5px 0;
 }
