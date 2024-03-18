@@ -83,8 +83,9 @@ font-size: 45px;
 }
 
 .membros-oficial{
-    font-weight: 100;
+    font-weight: 200;
     text-decoration: underline;
+    display: block;
     color: #000000;
 }
 
