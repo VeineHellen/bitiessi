@@ -75,12 +75,13 @@ font-size: 45px;
 
 .membros-pessoal{
     text-align: center;
-    padding: 40px 0;
+    
     display: block;
 }
 
 .membros-imagem{
     width: 300px;
+    padding: 40px 0;
 }
 
 .membros-oficial{
