@@ -72,28 +72,32 @@ font-size: 45px;
     display: grid;
     grid-template-columns: 33% 33% 33%;
 }
+
 .membros-pessoal{
     text-align: center;
-   
 }
 
 .membros-imagem{
     width: 300px;
 }
+
 .membros-oficial{
     font-weight: 100;
     text-decoration: underline;
     color: #FFFFFF;
 }
+
 .membros-icone-link:hover{
     font-weight: 100;
     text-decoration: underline;
     color: orange;
 }
+
 .membros-icone-link{
     width: 30px;
     padding: 5px 0 10px 0;
 }
+
 .membros-icone-link:hover{
     width: 35px;
     padding: 5px 0;
