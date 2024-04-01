@@ -108,13 +108,20 @@ font-size: 45px;
 }
 
 .rodape{
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+    border-top: 2px solid #ffff00b2;
+}
+
+.rodape-titulo{
+    font-size: 25px;
+    font-weight: bold;
+    color: #ffff00b2;
     padding: 10px 0;
 }
 
 .rodape-imagem{
-    width: 30px 0;
-}
-
-.rodape-titulo{
-    padding: 10px 0;
+    width: 100px;
+    filter: invert();
 }
