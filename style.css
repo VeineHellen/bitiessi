@@ -111,7 +111,7 @@ font-size: 45px;
     padding: 5px 0;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&family=Freeman&family=Jersey+25+Charted&family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&family=Freeman&family=Jersey+10+Charted&family=Jersey+25+Charted&family=Poetsen+One&display=swap');
 
 .rodape{
     background-color: black;
@@ -121,7 +121,7 @@ font-size: 45px;
 }
 
 .rodape-titulo{
-    font-family: Briem Hand;
+    font-family: Jersey 10 Charted;
     font-size: 30px;
     font-weight: bold;
     color: #ffff00b2;
