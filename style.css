@@ -111,14 +111,14 @@ font-size: 45px;
     padding: 5px 0;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&family=Freeman&family=Jersey+10+Charted&family=Jersey+25+Charted&family=Poetsen+One&display=swap');
-
 .rodape{
     background-color: black;
     text-align: center;
     padding: 50px;
     border-top: 2px solid #ffff00b2;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&family=Freeman&family=Jersey+10+Charted&family=Jersey+25+Charted&family=Poetsen+One&display=swap');
 
 .rodape-titulo{
     font-family: Jersey 10 Charted;
