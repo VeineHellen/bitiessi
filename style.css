@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Jersey+25+Charted&family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Freeman&family=Jersey+25+Charted&family=Poetsen+One&display=swap');
 
 *{
     margin: 0;
@@ -6,7 +6,7 @@
 }
 
 body{
-    font-family: 'Jersey 25 Charted', sans-serif;
+    font-family: 'Freeman', sans-serif;
 }
 
 .cabecalho{
