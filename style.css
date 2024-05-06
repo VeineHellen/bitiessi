@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Freeman&family=Jersey+25+Charted&family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Freeman&display=swap');
 
 *{
     margin: 0;
@@ -118,10 +118,10 @@ font-size: 45px;
     border-top: 2px solid #ffff00b2;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&family=Freeman&family=Jersey+10+Charted&family=Jersey+25+Charted&family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10+Charted&display=swap');
 
 .rodape-titulo{
-    font-family: Briem Hand;
+    font-family: Jersey 10 Charted;
     font-size: 30px;
     font-weight: bold;
     color: #ffff00b2;
