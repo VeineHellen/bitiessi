@@ -2,9 +2,13 @@
     margin: 0;
     padding: 0;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Jersey+25+Charted&family=Poetsen+One&display=swap');
+
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Jersey', sans-serif;
 }
+
 .cabecalho{
     background-color: #003399;
     color: white;
